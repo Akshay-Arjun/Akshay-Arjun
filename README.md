@@ -2,7 +2,7 @@
 
 
 
-[My Links](https://bit.ly/AkshayArjun) | [Twitter](https://twitter.com/AkshayArjun0808) | [Github](https://github.com/Akshay-Arjun)
+[My Links](https://akshay-arjun.github.io/Akshay-Arjun/) | [Twitter](https://twitter.com/AkshayArjun0808) | [Github](https://github.com/Akshay-Arjun)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay-Arjun)](https://github.com/Akshay-Arjun)
 
