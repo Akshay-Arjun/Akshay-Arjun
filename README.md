@@ -1,4 +1,18 @@
-### Hi there 👋
+<h2 align="left"> Hi there 👋, I'm 4k5h4y 4rjun <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+
+
+<h3 align="center"Doing my B.Tech in Computer Science (Cybdersecurity) at SR University , India</h3>
+<br />
+
+-  Another Cybersecurity Guy.
+-  Python Programmer.
+-  Other Than That, I read a Lot of Blogs/Writeups
+- 💬 Ask me Anything [here](https://bit.ly/AKSHAYARJUN)
+
+<br>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+</br>
 
 
 
