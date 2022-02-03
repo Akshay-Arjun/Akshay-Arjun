@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Doing my B.Tech in Computer Science (Cybdersecurity) at SR University , India</h3>
+<h3 align="center">Doing my B.Tech in Computer Science (Cybersecurity) at SR University , India</h3>
 <br />
 
 - Another Cybersecurity Guy.
