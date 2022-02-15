@@ -9,6 +9,7 @@
 -  Python Programmer.<br />
    <img src="https://imgs.xkcd.com/comics/python.png" width="300">
 -  Currently Learning Game Development.
+-  Ctf Player (Beginner).
 -  Other Than That, I read a Lot of Blogs/Writeups
 - 💬 Ask me Anything [here](https://bit.ly/AKSHAYARJUN)
 
