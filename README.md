@@ -37,7 +37,7 @@
         -->
 	<a href="https://t.me/Ak5h4y_4rjun">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />                                                                              	</a>&nbsp;&nbsp;&nbsp;&nbsp;    
-	<a href="https://twitter.com/AkshayArjun0808">
+	<a href="https://twitter.com/x4k5h4yx">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
