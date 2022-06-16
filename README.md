@@ -21,7 +21,7 @@
 
 - 📖 I read a lot of Blogs/Writeups on **hacking & hindhu mythology.**
 
-- 🐍 - Favourite language is **Python.**
+- 🐍 - Favourite programming language is **Python.**
 
    <img src="https://imgs.xkcd.com/comics/python.png" width="300"> <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="341">
    
