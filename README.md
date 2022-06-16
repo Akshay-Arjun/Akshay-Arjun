@@ -7,23 +7,23 @@
 
 
 
-- 🔭 I’m currently working on [There is no earth b](https://github.com/deokarniharika/TINEB-website-revamp)
+- 🔭 I’m currently working on **[Website for There is no earth b](https://github.com/deokarniharika/TINEB-website-revamp).**
 
-- 🌱 I’m currently learning **Game development, Hacking**
+- 🌱 I’m currently learning **Game development, Hacking.**
 
-- 💬 Ask me about **Cybersecurity,Gender biased laws**
+- 💬 Ask me about **Cybersecurity,Gender biased laws.**
 
-- 🎮 Games I play **Valorant , [Capture the flag](https://app.hackthebox.com/profile/425207) **.
+- 🎮 Games I play **Valorant** , **[Capture the flag](https://app.hackthebox.com/profile/425207).**
 
-- 📫 How to reach me **[Mylinks](https://bit.ly/AKSHAYARJUN)**
+- 📫 How to reach me **[Mylinks](https://bit.ly/AKSHAYARJUN).**
 
 - ⚡ Fun fact India doesn't have **Men rights & Gender neutral laws.**
 
-- 📖 I read a lot of Blogs/Writeups on **hacking & hindhu mythology**.
+- 📖 I read a lot of Blogs/Writeups on **hacking & hindhu mythology.**
 
-- 🐍 - Favourite language is **Python** .
+- 🐍 - Favourite language is **Python.**
 
-   <img src="https://imgs.xkcd.com/comics/python.png" width="300"> <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+   <img src="https://imgs.xkcd.com/comics/python.png" width="300"> <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="341">
    
 </br>
 <h3 align="left">Connect with me:</h3>
