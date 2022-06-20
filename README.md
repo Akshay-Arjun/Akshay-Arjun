@@ -15,11 +15,11 @@
 
 - 🎮 Games I play **Valorant** , **[Capture the flag](https://app.hackthebox.com/profile/425207).**
 
-- 📫 How to reach me **[Mylinks](https://bit.ly/AKSHAYARJUN).**
+- 📫 How to reach me **[My links](https://bit.ly/AKSHAYARJUN).**
 
-- ⚡ Fun fact India doesn't have **Men rights & Gender neutral laws.**
+- ⚡ Fun fact : India doesn't have **Men rights & Gender neutral laws.**
 
-- 📖 I read a lot of Blogs/Writeups on **hacking & hindhu mythology.**
+- 📖 I read a lot of Blogs/Writeups on **hacking & hindu mythology.**
 
 - 🐍 - Favourite programming language is **Python.**
 
