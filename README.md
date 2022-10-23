@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **[My links](https://bit.ly/AKSHAYARJUN).**
 
-- ⚡ Fun fact : India doesn't have **Men rights & Gender neutral laws.**
+- ⚡ Unfunny fact : India doesn't have **Men rights & Gender neutral laws.**
 
 - 📖 I read a lot of Blogs/Writeups on **hacking & hindu mythology.**
 
