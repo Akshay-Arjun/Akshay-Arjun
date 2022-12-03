@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-arjun&show_icons=true&theme=tokyonight&locale=en" alt="akshay-arjun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-arjun&theme=dark" alt="akshay-arjun" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-arjun&theme=dark" alt="Akshay-Arjun" /></p>
