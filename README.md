@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **[Website for There is no earth b](https://github.com/deokarniharika/TINEB-website-revamp).**
+- 🔭 I’m currently working on **[There is no earth b website](https://thereisnoearthb.org) and [My personal website](https://akshay-arjun.vercel.app).**
 
 - 🌱 I’m currently learning **Game development, Hacking.**
 
@@ -19,7 +19,7 @@
 
 - ⚡ Unfunny fact : India doesn't have **Men rights & Gender neutral laws.**
 
-- 📖 I read a lot of Blogs/Writeups on **hacking & hindu mythology.**
+- 📖 I read a lot of Blogs/Writeups on **Hacking & Hindu ~~mythology~~ history.**
 
 - 🐍 - Favourite programming language is **Python.**
 
