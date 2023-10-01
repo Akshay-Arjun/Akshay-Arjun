@@ -32,7 +32,7 @@
 <!--
 <a href="https://codesandbox.com/akshay-arjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshay-arjun" height="30" width="40" /></a>
 -->
-<a href="https://instagram.com/_thearjun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thearjun_" height="30" width="40" /></a>
+<a href="https://instagram.com/akshayarjun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thearjun_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akshayvollala/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="_thearjun_" height="30" width="40" /></a>   
 </p>
 <h3 style={{ textAlign: "left" }}>Download Resume : </h3>
