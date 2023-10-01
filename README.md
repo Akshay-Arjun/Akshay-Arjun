@@ -28,7 +28,7 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/x4k5h4yx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x4k5h4yx" height="30" width="40" /></a>
+<a href="https://twitter.com/akshayvollala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x4k5h4yx" height="30" width="40" /></a>
 <!--
 <a href="https://codesandbox.com/akshay-arjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshay-arjun" height="30" width="40" /></a>
 -->
