@@ -9,7 +9,7 @@
 
 - 🔭 My web projects **[Abort-India](https://abort-india.vercel.app) ,[My personal blog](https://akshay-blog.vercel.app) ,[My personal website](https://akshay-arjun.vercel.app) and [Web Music App](https://plays-music.vercel.app)**.
 
-- 🌱 I’m currently learning **Game development, Hacking.**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Cybersecurity,Gender biased laws.**
 
