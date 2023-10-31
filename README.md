@@ -11,13 +11,12 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Cybersecurity,Gender biased laws.**
+- 💬 Love to talk about **Cybersecurity**
 
 - 🎮 Games I play **Valorant** , **[Capture the flag](https://app.hackthebox.com/profile/425207).**
 
 - 📫 How to reach me **[My links](https://bit.ly/AKSHAYARJUN).**
 
-- ⚡ Unfunny fact : India doesn't have **Men rights & Gender neutral laws.**
 
 - 🐍 - Favourite programming language is **Python.**
 
