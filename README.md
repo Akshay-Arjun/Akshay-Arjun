@@ -2,14 +2,9 @@
 
 
 
-<h3 align="center">Doing my B.Tech in Computer Science (Cybersecurity) at SR University , India</h3>
+<h3 align="center">Completed my B.Tech in Computer Science (Cybersecurity) at SR University , India</h3>
 <br />
 
-
-
-- 🔭 My web projects **[Abort-India](https://abort-india.vercel.app) ,[My personal blog](https://akshay-blog.vercel.app) ,[My personal website](https://akshay-arjun.vercel.app) and [Web Music App](https://plays-music.vercel.app)**.
-
-- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Love to talk about **Cybersecurity**
 
