@@ -9,9 +9,9 @@
 - 💬 Love to talk about **Cybersecurity**
 
 - 🎮 Games I play **Valorant** , **[Capture the flag](https://app.hackthebox.com/profile/425207).**
-
+<!--
 - 📫 How to reach me **[My links](https://bit.ly/AKSHAYARJUN).**
-
+-->
 
 - 🐍 - Favourite programming language is **Python.**
 
@@ -27,9 +27,10 @@
 <a href="https://instagram.com/akshayarjun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thearjun_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akshayvollala/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="_thearjun_" height="30" width="40" /></a>   
 </p>
+<!--
 <h3 style={{ textAlign: "left" }}>Download Resume : </h3>
   <a href="https://github.com/Akshay-Arjun/Akshay-Arjun/raw/main/Akshay%20%20Vollala's%20Resume.pdf"  style={{color: '#1DA1F2', height:"30" ,width:"40"}} target="blank"><img style={{ textAlign: "center" }} src="https://img.shields.io/badge/Resume-100000?style=for-the-badge&logo=readme&logoColor=white" alt="_thearjun_"  /></a>  
-
+-->
 <h3 align="left">Me in Github :</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-arjun&label=Profile%20views&color=ff0000&style=plastic" alt="akshay-arjun" /> </p>
 
